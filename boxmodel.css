@@ -1,0 +1,35 @@
+h1{
+text-align:center;
+}
+
+
+table{
+margin: 0 auto;
+padding-top: 20px;
+}
+
+th:nth-child(3) {
+    border-right: 0px;;
+}
+
+td:nth-child(3) {
+    border-right: 0px;
+}
+.no-bottom-border{
+border-bottom: 0px;
+}
+
+th{
+border-bottom:1px solid black;
+border-right:1px solid black;
+height:100px;
+width:100px;
+margin:0px;
+}
+td{
+border-bottom:1px solid black;
+border-right:1px solid black;
+height:100px;
+width:100px;
+margin:0px;
+}
